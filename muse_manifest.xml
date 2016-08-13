@@ -1,0 +1,266 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infographic.com" resolutions="1x" timestamp="1469717318955">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="532957371" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="all-customer-info">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469289742000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3940108787" mt="1469289742000"/>
+        <file name="Poster.png" crc="3940108787" mt="1469289742000"/>
+        <file name="central circle.svg" crc="357582210" mt="1469289742000"/>
+        <file name="Circle 1.svg" crc="508015521" mt="1469289742000"/>
+        <file name="circle 12.svg" crc="279161658" mt="1469289742000"/>
+        <file name="Eyebrows.svg" crc="424020719" mt="1469289742000"/>
+        <file name="Icons build file-02.svg" crc="44384185" mt="1469289742000"/>
+        <file name="Icons build file-03.svg" crc="3800411172" mt="1469289742000"/>
+        <file name="Icons build file-04.svg" crc="4248770826" mt="1469289742000"/>
+        <file name="Icons build file-05.svg" crc="4204170196" mt="1469289742000"/>
+        <file name="Laptop.svg" crc="4223873735" mt="1469289742000"/>
+        <file name="Laptop2.svg" crc="4223873735" mt="1469289742000"/>
+        <file name="PC.svg" crc="4251534758" mt="1469289742000"/>
+        <file name="Phone.svg" crc="92295576" mt="1469289742000"/>
+        <file name="Smile.svg" crc="381552911" mt="1469289742000"/>
+        <file name="Tablet.svg" crc="3925426104" mt="1469289742000"/>
+      </folder>
+      <file name="All customer info_edge.js" crc="22491801" mt="1469289742000"/>
+      <file name="All customer info.html" crc="90074356" mt="1469289742000"/>
+    </folder>
+    <folder name="top-1000-accounts">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469279006000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="164463072" mt="1469279006000"/>
+        <file name="5.svg" crc="171227374" mt="1469279006000"/>
+        <file name="arrow.svg" crc="4153427472" mt="1469279006000"/>
+        <file name="arrow2.svg" crc="4201157455" mt="1469279006000"/>
+        <file name="bars.svg" crc="3843860285" mt="1469279006000"/>
+        <file name="Cards.svg" crc="499015468" mt="1469279006000"/>
+        <file name="graph bars.svg" crc="3843860285" mt="1469279006000"/>
+        <file name="monitor.svg" crc="128456886" mt="1469279006000"/>
+        <file name="Pasted.svg" crc="285621936" mt="1469279006000"/>
+        <file name="Pasted2.svg" crc="285621936" mt="1469279006000"/>
+        <file name="percentage.svg" crc="4225297853" mt="1469279006000"/>
+      </folder>
+      <file name="top 1000 accounts_edge.js" crc="4121427853" mt="1469279006000"/>
+      <file name="top 1000 accounts.html" crc="78856354" mt="1469279006000"/>
+    </folder>
+    <folder name="shared-easily">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469303908000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="3929865675" mt="1469303908000"/>
+        <file name="Building.svg" crc="464009473" mt="1469303908000"/>
+        <file name="Pasted.svg" crc="3884628764" mt="1469303908000"/>
+        <file name="Person 1.svg" crc="275108682" mt="1469303908000"/>
+        <file name="Person 2.svg" crc="4127728757" mt="1469303908000"/>
+        <file name="Person 3.svg" crc="3957045876" mt="1469303908000"/>
+        <file name="Speech bubble 2.svg" crc="512472406" mt="1469303908000"/>
+        <file name="Speech bubble 22.svg" crc="3907909115" mt="1469303908000"/>
+        <file name="Speech bubble.svg" crc="4065217605" mt="1469303908000"/>
+      </folder>
+      <file name="Shared easily_edge.js" crc="3794190697" mt="1469303908000"/>
+      <file name="Shared easily.html" crc="4251022533" mt="1469303908000"/>
+    </folder>
+    <folder name="team-sites">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469303632000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="4174341196" mt="1469303632000"/>
+        <file name="Hand right.svg" crc="3918811817" mt="1469303632000"/>
+        <file name="Hand_right.svg" crc="3859763802" mt="1469303632000"/>
+        <file name="thought_bubble.svg" crc="468459491" mt="1469303632000"/>
+      </folder>
+      <file name="team sites_edge.js" crc="296787882" mt="1469303632000"/>
+      <file name="team sites.html" crc="478140843" mt="1469303632000"/>
+    </folder>
+    <folder name="less-admin">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469271408000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="164463072" mt="1469271408000"/>
+        <file name="5.svg" crc="171227374" mt="1469271408000"/>
+        <file name="arrow.svg" crc="4153427472" mt="1469271408000"/>
+        <file name="bars.svg" crc="3843860285" mt="1469271408000"/>
+        <file name="graph bars.svg" crc="3843860285" mt="1469271408000"/>
+        <file name="monitor.svg" crc="128456886" mt="1469271408000"/>
+      </folder>
+      <file name="Less admin_edge.js" crc="4277566458" mt="1469271408000"/>
+      <file name="Less admin.html" crc="4216338409" mt="1469271408000"/>
+    </folder>
+    <folder name="a-single-integrated-platform">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469270896000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="337928795" mt="1469270896000"/>
+        <file name="Pasted.svg" crc="313918285" mt="1469270896000"/>
+        <file name="puzzle pieces.svg" crc="212309018" mt="1469270896000"/>
+        <file name="speed lines.svg" crc="291347491" mt="1469270896000"/>
+        <file name="Van base.svg" crc="313757463" mt="1469270896000"/>
+        <file name="Van.svg" crc="469284253" mt="1469270896000"/>
+        <file name="wheel.svg" crc="211865556" mt="1469270896000"/>
+      </folder>
+      <file name="A single integrated platform_edge.js" crc="177218776" mt="1469270896000"/>
+      <file name="A single integrated platform.html" crc="433390912" mt="1469270896000"/>
+    </folder>
+    <folder name="shop-sign">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1469265270000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="3997456876" mt="1469265270000"/>
+        <file name="CLOSED.svg" crc="3827612309" mt="1469265270000"/>
+        <file name="Open.svg" crc="3976523455" mt="1469265270000"/>
+        <file name="Open2.svg" crc="3976523455" mt="1469265270000"/>
+        <file name="OPEN3.svg" crc="4285887524" mt="1469265270000"/>
+        <file name="Pasted.svg" crc="288444852" mt="1469265270000"/>
+        <file name="Pasted2.svg" crc="378771750" mt="1469265270000"/>
+        <file name="Sign_CLOSED.svg" crc="3971961772" mt="1469265270000"/>
+        <file name="Sign_OPEN.svg" crc="394231700" mt="1469265270000"/>
+        <file name="Sign_String.svg" crc="375556537" mt="1469265270000"/>
+        <file name="string.svg" crc="151191047" mt="1469265270000"/>
+        <file name="String2.svg" crc="3903531541" mt="1469265270000"/>
+        <file name="string3.svg" crc="4185445088" mt="1469265270000"/>
+      </folder>
+      <file name="shop sign_edge.js" crc="464272890" mt="1469265270000"/>
+      <file name="shop sign.html" crc="3828708348" mt="1469265270000"/>
+    </folder>
+    <folder name="3-percent-per-head">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1468686758000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="138768164" mt="1468686758000"/>
+        <file name="Poster.png" crc="138768164" mt="1468686758000"/>
+        <file name="coin.svg" crc="3817867043" mt="1468686758000"/>
+        <file name="mouth.svg" crc="4082422945" mt="1468686758000"/>
+        <file name="Pasted.svg" crc="3775483399" mt="1468686758000"/>
+        <file name="Percentage.svg" crc="4071532778" mt="1468686758000"/>
+        <file name="woman.svg" crc="327316444" mt="1468686758000"/>
+      </folder>
+      <file name="3 percent per head_edge.js" crc="3974866513" mt="1468686758000"/>
+      <file name="3 percent per head.html" crc="4070462554" mt="1468686758000"/>
+    </folder>
+    <folder name="competitor-insights">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1468683572000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="444608403" mt="1468683572000"/>
+        <file name="Poster.png" crc="444608403" mt="1468683572000"/>
+        <file name="magnifying glass-02.svg" crc="4025799934" mt="1468683572000"/>
+        <file name="magnifying glass.svg" crc="26676872" mt="1468683572000"/>
+        <file name="people.svg" crc="390372619" mt="1468683572000"/>
+      </folder>
+      <file name="Competitor insights_edge.js" crc="4189584324" mt="1468683572000"/>
+      <file name="Competitor insights.html" crc="27872992" mt="1468683572000"/>
+    </folder>
+    <folder name="providing-better-quality">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1468681314000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="295560952" mt="1468681314000"/>
+        <file name="Poster.png" crc="295560952" mt="1468681314000"/>
+        <file name="Centre.svg" crc="198757290" mt="1468681314000"/>
+        <file name="Left.svg" crc="370127363" mt="1468681314000"/>
+        <file name="Right.svg" crc="209609586" mt="1468681314000"/>
+      </folder>
+      <file name="providing better quality_edge.js" crc="59845022" mt="1468681314000"/>
+      <file name="providing better quality.html" crc="3789719497" mt="1468681314000"/>
+    </folder>
+    <file name="swatches.ase" crc="3910550213" seo="true" mt="1468077776000"/>
+    <file name="easy-animation.mulib" crc="3923952817" seo="true" mt="1449003816000"/>
+    <file name="documentation.doc" crc="4018493815" seo="true" mt="1442255118000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fractal-header.jpg" crc="3867601517" seo="true" ref="index"/>
+    <file name="u1739-grad.png" crc="37619818" ref="index"/>
+    <file name="salesforce_small.png" crc="402081907" seo="true" ref="index"/>
+    <file name="pasted-svg-128x34.svg" crc="4091170664" seo="true" ref="index"/>
+    <file name="pasted svg 128x34_poster_.png" crc="110471130" ref="index"/>
+    <file name="1024px-bt_logosvg.png" crc="390589440" seo="true" ref="index"/>
+    <file name="pasted-svg-31998x191.svg" crc="313896909" seo="true" ref="index"/>
+    <file name="pasted svg 31998x191_poster_.png" crc="4034626621" ref="index"/>
+    <file name="pasted-svg-64239x35.svg" crc="3920499287" seo="true" ref="index"/>
+    <file name="pasted svg 64239x35_poster_.png" crc="486487578" ref="index"/>
+    <file name="pasted-svg-686x2.svg" crc="4197144610" seo="true" ref="index"/>
+    <file name="pasted svg 686x2_poster_.png" crc="4249631001" ref="index"/>
+    <file name="pasted-svg-60517x94.svg" crc="522810509" seo="true" ref="index"/>
+    <file name="pasted svg 60517x94_poster_.png" crc="346999846" ref="index"/>
+    <file name="pasted-svg-67277x20.svg" crc="78896253" seo="true" ref="index"/>
+    <file name="pasted svg 67277x20_poster_.png" crc="99836888" ref="index"/>
+    <file name="pasted-svg-39049x23.svg" crc="345026223" seo="true" ref="index"/>
+    <file name="pasted svg 39049x23_poster_.png" crc="127484454" ref="index"/>
+    <file name="pasted-svg-0x0.svg" crc="3968232463" seo="true" ref="index"/>
+    <file name="pasted svg 0x0_poster_.png" crc="395010800" ref="index"/>
+    <file name="pasted-svg-21051x59.svg" crc="4024516614" seo="true" ref="index"/>
+    <file name="pasted svg 21051x59_poster_.png" crc="4087015206" ref="index"/>
+    <file name="pasted-svg-17474x59.svg" crc="517664314" seo="true" ref="index"/>
+    <file name="pasted svg 17474x59_poster_.png" crc="142910580" ref="index"/>
+    <file name="pasted-svg-55415x31.svg" crc="4090597771" seo="true" ref="index"/>
+    <file name="pasted svg 55415x31_poster_.png" crc="409232258" ref="index"/>
+    <file name="pasted-svg-23066x38.svg" crc="4242660236" seo="true" ref="index"/>
+    <file name="pasted svg 23066x38_poster_.png" crc="189120614" ref="index"/>
+    <file name="pasted-svg-19207x55.svg" crc="189116148" seo="true" ref="index"/>
+    <file name="pasted svg 19207x55_poster_.png" crc="3864859887" ref="index"/>
+    <file name="pasted-svg-25027x89.svg" crc="4078976427" seo="true" ref="index"/>
+    <file name="pasted svg 25027x89_poster_.png" crc="23515828" ref="index"/>
+    <file name="pasted-svg-42307x31.svg" crc="4175028641" seo="true" ref="index"/>
+    <file name="pasted svg 42307x31_poster_.png" crc="4171710096" ref="index"/>
+    <file name="pasted-svg-18844x47.svg" crc="343994669" seo="true" ref="index"/>
+    <file name="pasted svg 18844x47_poster_.png" crc="4268283932" ref="index"/>
+    <file name="pasted-svg-8533x47.svg" crc="3871567272" seo="true" ref="index"/>
+    <file name="pasted svg 8533x47_poster_.png" crc="110736692" ref="index"/>
+    <file name="pasted-svg-40288x31.svg" crc="371428147" seo="true" ref="index"/>
+    <file name="pasted svg 40288x31_poster_.png" crc="4094435317" ref="index"/>
+    <file name="pasted-svg-36567x48.svg" crc="4233142032" seo="true" ref="index"/>
+    <file name="pasted svg 36567x48_poster_.png" crc="267832750" ref="index"/>
+    <file name="pasted-svg-35438x47.svg" crc="454816150" seo="true" ref="index"/>
+    <file name="pasted svg 35438x47_poster_.png" crc="325060065" ref="index"/>
+    <file name="pasted-svg-35764x48.svg" crc="3767912798" seo="true" ref="index"/>
+    <file name="pasted svg 35764x48_poster_.png" crc="249842908" ref="index"/>
+    <file name="pasted-svg-36154x31.svg" crc="3959501672" seo="true" ref="index"/>
+    <file name="pasted svg 36154x31_poster_.png" crc="4293487088" ref="index"/>
+    <file name="pasted-svg-37421x165.svg" crc="3789615194" seo="true" ref="index"/>
+    <file name="pasted svg 37421x165_poster_.png" crc="394978773" ref="index"/>
+    <file name="we-ve-made-a-great-start-v2.jpg" crc="534476817" seo="true" ref="index"/>
+    <file name="pasted-svg-19091x124.svg" crc="4260838176" seo="true" ref="index"/>
+    <file name="pasted svg 19091x124_poster_.png" crc="3849881000" ref="index"/>
+    <file name="pasted-svg-10521x122.svg" crc="96916163" seo="true" ref="index"/>
+    <file name="pasted svg 10521x122_poster_.png" crc="485941594" ref="index"/>
+    <file name="pasted-svg-16685x123.svg" crc="293275527" seo="true" ref="index"/>
+    <file name="pasted svg 16685x123_poster_.png" crc="3759266937" ref="index"/>
+    <file name="pasted-svg-14317x121.svg" crc="4031807223" seo="true" ref="index"/>
+    <file name="pasted svg 14317x121_poster_.png" crc="86618877" ref="index"/>
+    <file name="pasted-svg-1699x74.svg" crc="3846109580" seo="true" ref="index"/>
+    <file name="pasted svg 1699x74_poster_.png" crc="223613305" ref="index"/>
+    <file name="pasted-svg-14101x71.svg" crc="4258520140" seo="true" ref="index"/>
+    <file name="pasted svg 14101x71_poster_.png" crc="3912583918" ref="index"/>
+    <file name="pasted-svg-1454x44.svg" crc="3990310950" seo="true" ref="index"/>
+    <file name="pasted svg 1454x44_poster_.png" crc="454279296" ref="index"/>
+    <file name="pasted-svg-12779x74.svg" crc="3894439523" seo="true" ref="index"/>
+    <file name="pasted svg 12779x74_poster_.png" crc="4095838208" ref="index"/>
+    <file name="salesforce_medium.png" crc="4123380140" seo="true" ref="index"/>
+    <file name="u3981-grad.png" crc="4283386427" ref="index"/>
+    <file name="bt_medium.png" crc="182175534" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3959957748" seo="true" mt="1469538332038" redirect="true"/>
+</manifest>
